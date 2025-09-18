@@ -2,7 +2,7 @@
 
 Repositório feito para arquivamento e divulgação da reclist PT-BR CVVC feito para sintetizadores de voz sampleados utilizando conotação BRAPA.<br/>
 Conotação*: [BRAPA](https://github.com/Team-BRAPA/BRAPA "BRAPA") / [Planilha Online](https://github.com/Team-BRAPA/BRAPA/blob/main/SPREADSHEETS/FONEMAS.md "Fonemas")<br/>
-BGM Guide recomendado: [BGM BRAPA](https://cdn.discordapp.com/attachments/1115003444563021956/1115003445708066826/Brapa_BGM.rar?ex=655a65e1&is=6547f0e1&hm=6678296696ea23772fbc640b03ca803ddcb2c1f61ed7ce66360674efe9e61bff&) por Tiffany<br/>
+BGM Guide recomendado: [BGM BRAPA](https://files.catbox.moe/156e2o.rar) por Tiffany<br/>
 Programa de gravação recomendado: [OREMO](https://pt.osdn.net/users/nwp8861/pf/OREMO/wiki/FrontPage "OREMO") por nwp8861<br/>
 Guia visual de como configurar/otoar: [Wiki](https://github.com/Team-BRAPA/CVC-Brapa-Reclist/wiki "Wiki")<br/>
 Reclist criada por [@coffeemilk](https://latinlechedotcom.carrd.co/)
@@ -14,6 +14,10 @@ Tools por [@oipatiu](https://github.com/oipatiu) e [@Fukaoni](https://github.com
 
 ## Bancos de Voz
 * Tsukine -paçoca- [YouTube](https://www.youtube.com/watch?v=8nGmSRinlCo)
+
+## Phonemizer
+Esta lista tem seu próprio fonemizador, gentilmente distribuído por ly.
+Leia sobre [aqui](https://github.com/abnormalisotope/MINI-BRAPA-CVC-Phonemizer)
 
 ## Download
 Você pode fazer o download [clicando aqui](https://github.com/Team-BRAPA/CVC-MINI-BRAPA-reclist-tools/archive/refs/heads/main.zip "Reclist") <br/>
